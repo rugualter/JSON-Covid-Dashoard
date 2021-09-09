@@ -1,5 +1,5 @@
 # JSON-Covid-Dashoard
-C# Covid Metrics Dashboard using a JSON API
+C# Windows Forms Covid Metrics Dashboard using a JSON API
 
 In practical terms, the architecture used is the MVC pattern, that is, the division of the application into layers, a user interface called View, one for logical data manipulation called Model, and a third layer of application flow called Controller.
 
